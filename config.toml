@@ -1,5 +1,3 @@
-# Make music taan/palta generator, automatic audio, scale, table will sing that taal
-
 title = "Researcher"
 baseURL = "https://example.com"
 theme = "researcher"
@@ -15,7 +13,7 @@ googleAnalytics = ""  # add your tracking id
   logo = ""  # url or path to a logo to put in the header
   [params.footer]
     text = "By Devang Kulshreshtha"
-    url = "https://github.com/geekydevu/academic-webpage"
+    url = "https://github.com/geekydevu"
   [params.style]  # appearance options (can be omitted)
     fontFamily = "Inconsolata"
     pageWidth = "750px"
