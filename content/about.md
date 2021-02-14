@@ -25,4 +25,4 @@ In chronological order:
 
 Here is a quote from Swami Vivekananda:
 
-> Arise awake and stop not until the goal is achieved.
+> In a day, when you don't come across any problems - you can be sure that you are travelling in a wrong path.
