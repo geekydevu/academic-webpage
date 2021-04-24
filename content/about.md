@@ -12,7 +12,7 @@ I am a Masters research student at the [MILA Lab](https://mila.quebec/en/) and M
 
 My ongoing research focuses on neural question generation from open educational resources (e.g. Wikipedia) for statistics and Machine Learning domain.
 
-Apart from research, I also like learning vocal Indian classical music and meditation.
+Apart from research, I also like learning vocal Indian classical music.
 
 ## Publications
 
@@ -22,8 +22,3 @@ In chronological order:
 3. H. Rangwani, **D.Kulshreshtha**, A.K. Singh: [NLPRL-IITBHU at SemEval-2018 Task 3: Combining linguistic features and emoji pre-trained CNN for irony detection in tweets](http:/www.aclweb.org/anthology/S18-1104/). *SemEval at NAACL 2018*
 4. P. Goel, **D.Kulshreshtha**, P. Jain, K.K. Shukla: [Prayas at EmoInt 2017: An Ensemble of Deep Neural Architectures for Emotion Intensity Prediction in Tweets](http:/www.aclweb.org/anthology/W17-5207/). *WASSA at EMNLP 2017*
 5. **D. Kulshreshtha**: [Feature Augmented Deep Neural Networks for Collaborative Filtering](http:/github.com/geekydevu/my-research-papers/blob/master/ijcai_paper.pdf/). *IJCAI 2017 Workshop on AI Applications in e-commerce*
-
-
-Here is a quote from Swami Vivekananda:
-
-> In a day, when you don't come across any problems - you can be sure that you are travelling in a wrong path.

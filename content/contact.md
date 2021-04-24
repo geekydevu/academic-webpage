@@ -3,22 +3,22 @@ title = "Contact"
 +++
 
 * Email: [devang.kulshreshtha@mila.quebec](mailto:devang.kulshreshtha@mila.quebec)
-* Phone: [+91-9621633895]
+* Phone: [+1-5145703895]
 
 ---
 
 ## Mailing Address
 
-> 221B, Baker Street
+> 6773, Rue de la Roche
 >
-> London
+> Montreal, Quebec
 >
-> United Kingdom
+> Canada
 
 ---
 
 ## Social
 
 1. [Facebook](https://www.facebook.com/devang.kulshreshtha/)
-2. [Twitter](#)
-3. [Google+](https://scholar.google.com/citations?user=-E2zJ4AAAAAJ)
+2. [Twitter](https://twitter.com/DevangKulshres3)
+3. [Google scholar](https://scholar.google.com/citations?user=-E2zJ4AAAAAJ)
