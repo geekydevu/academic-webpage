@@ -8,6 +8,8 @@ title = "About"
 
 I am a Masters research student at the [MILA Lab](https://mila.quebec/en/) and McGill University with [Siva Reddy](https://sivareddy.in/), and a research intern at Korbit.AI.
 
+I will be spending Summers 2021 at Amazon Cambridge, UK as an Applied Scientist intern!
+
 ## Research Interest
 
 My ongoing research focuses on neural question generation from open educational resources (e.g. Wikipedia) for statistics and Machine Learning domain.
