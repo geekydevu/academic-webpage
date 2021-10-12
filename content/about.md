@@ -18,11 +18,24 @@ Apart from research, I also like learning vocal Indian classical music.
 ## Publications
 
 In chronological order:
-1. [Back-Training excels Self-Training at Unsupervised Domain Adaptation of Question Generation and Passage Retrieval](https://arxiv.org/abs/2104.08801).<br>
+1. [Back-Training excels Self-Training at Unsupervised Domain Adaptation of Question Generation and Passage Retrieval](https://arxiv.org/abs/2104.08801)<br>
 **D.Kulshreshtha**, R. Belfer, I.V. Serban, S. Reddy<br>
 *EMNLP 2021*<br>
-<a href="https://github.com/McGill-NLP/MLQuestions">Code</a> <a href="/slides-emnlp-back-training.pdf">Slides</a> <a href="/poster-emnlp-back-training.pdf">Poster</a>
-2. **D.Kulshreshtha**, P. Goel, A.K. Singh: [How emotional are you? Neural Architectures for Emotion Intensity Prediction in Microblogs](http:/www.aclweb.org/anthology/C18-1247/). *COLING 2018*
-3. H. Rangwani, **D.Kulshreshtha**, A.K. Singh: [NLPRL-IITBHU at SemEval-2018 Task 3: Combining linguistic features and emoji pre-trained CNN for irony detection in tweets](http:/www.aclweb.org/anthology/S18-1104/). *SemEval at NAACL 2018*
-4. P. Goel, **D.Kulshreshtha**, P. Jain, K.K. Shukla: [Prayas at EmoInt 2017: An Ensemble of Deep Neural Architectures for Emotion Intensity Prediction in Tweets](http:/www.aclweb.org/anthology/W17-5207/). *WASSA at EMNLP 2017*
-5. **D. Kulshreshtha**: [Feature Augmented Deep Neural Networks for Collaborative Filtering](http:/github.com/geekydevu/my-research-papers/blob/master/ijcai_paper.pdf/). *IJCAI 2017 Workshop on AI Applications in e-commerce*
+<a href="https://github.com/McGill-NLP/MLQuestions">[Code]</a> <a href="/slides-emnlp-back-training.pdf">[Slides]</a> <a href="/poster-emnlp-back-training.pdf">[Poster]</a>
+<br>
+2. [How emotional are you? Neural Architectures for Emotion Intensity Prediction in Microblogs](http:/www.aclweb.org/anthology/C18-1247/)<br>
+**D.Kulshreshtha**, P. Goel, A.K. Singh <br>
+*COLING 2018*<br>
+<a href="https://github.com/Pranav-Goel/Neural_Emotion_Intensity_Prediction">[Code]</a>
+<br>
+3. [NLPRL-IITBHU at SemEval-2018 Task 3: Combining linguistic features and emoji pre-trained CNN for irony detection in tweets](http:/www.aclweb.org/anthology/S18-1104/)<br>
+H. Rangwani, **D.Kulshreshtha**, A.K. Singh<br>
+*SemEval at NAACL 2018*
+<br>
+4. [Prayas at EmoInt 2017: An Ensemble of Deep Neural Architectures for Emotion Intensity Prediction in Tweets](http:/www.aclweb.org/anthology/W17-5207/)<br>
+P. Goel, **D.Kulshreshtha**, P. Jain, K.K. Shukla<br>
+*WASSA at EMNLP 2017*
+<br>
+5. [Feature Augmented Deep Neural Networks for Collaborative Filtering](http:/github.com/geekydevu/my-research-papers/blob/master/ijcai_paper.pdf/)<br>
+**D. Kulshreshtha**<br>
+*IJCAI 2017 Workshop on AI Applications in e-commerce*
