@@ -19,23 +19,22 @@ Apart from research, I also like learning vocal Indian classical music.
 
 In chronological order:
 <br>
-[Back-Training excels Self-Training at Unsupervised Domain Adaptation of Question Generation and Passage Retrieval](https://arxiv.org/abs/2104.08801) <a href="https://github.com/McGill-NLP/MLQuestions">[Code]</a> <a href="/slides-emnlp-back-training.pdf">[Slides]</a> <a href="/poster-emnlp-back-training.pdf">[Poster]</a> <br>
+1. [Back-Training excels Self-Training at Unsupervised Domain Adaptation of Question Generation and Passage Retrieval](https://arxiv.org/abs/2104.08801) <a href="https://github.com/McGill-NLP/MLQuestions">[Code]</a> <a href="/slides-emnlp-back-training.pdf">[Slides]</a> <a href="/poster-emnlp-back-training.pdf">[Poster]</a> <br>
 **Devang Kulshreshtha**, Robert Belfer, Iulian Vlad Serban, Siva Reddy<br>
-*EMNLP 2021*<br>
-
+*EMNLP 2021*
 <br><br>
-[How emotional are you? Neural Architectures for Emotion Intensity Prediction in Microblogs](http:/www.aclweb.org/anthology/C18-1247/) <a href="https://github.com/Pranav-Goel/Neural_Emotion_Intensity_Prediction">[Code]</a> <br>
+2. [How emotional are you? Neural Architectures for Emotion Intensity Prediction in Microblogs](http:/www.aclweb.org/anthology/C18-1247/) <a href="https://github.com/Pranav-Goel/Neural_Emotion_Intensity_Prediction">[Code]</a> <br>
 **Devang Kulshreshtha**, Pranav Goel, Anil Kumar Singh <br>
-*COLING 2018*<br>
+*COLING 2018*
 <br><br>
-[NLPRL-IITBHU at SemEval-2018 Task 3: Combining linguistic features and emoji pre-trained CNN for irony detection in tweets](http:/www.aclweb.org/anthology/S18-1104/)<br>
+3. [NLPRL-IITBHU at SemEval-2018 Task 3: Combining linguistic features and emoji pre-trained CNN for irony detection in tweets](http:/www.aclweb.org/anthology/S18-1104/)<br>
 Harsh Rangwani, **Devang Kulshreshtha**, Anil Kumar Singh<br>
 *SemEval at NAACL 2018*
 <br><br>
-[Prayas at EmoInt 2017: An Ensemble of Deep Neural Architectures for Emotion Intensity Prediction in Tweets](http:/www.aclweb.org/anthology/W17-5207/)<br>
+4. [Prayas at EmoInt 2017: An Ensemble of Deep Neural Architectures for Emotion Intensity Prediction in Tweets](http:/www.aclweb.org/anthology/W17-5207/)<br>
 Pranav Goel, **Devang Kulshreshtha**, Prayas Jain, K.K. Shukla<br>
 *WASSA at EMNLP 2017*
 <br><br>
-[Feature Augmented Deep Neural Networks for Collaborative Filtering](http:/github.com/geekydevu/my-research-papers/blob/master/ijcai_paper.pdf/)<br>
+5. [Feature Augmented Deep Neural Networks for Collaborative Filtering](http:/github.com/geekydevu/my-research-papers/blob/master/ijcai_paper.pdf/)<br>
 **Devang Kulshreshtha**<br>
 *IJCAI 2017 Workshop on AI Applications in e-commerce*
