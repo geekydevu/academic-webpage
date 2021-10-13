@@ -29,7 +29,6 @@ Apart from research, I also like learning vocal Indian classical music.
 
 In chronological order:
 <br>
-In chronological order:
 1. **D.Kulshreshtha**, R. Belfer, I.V. Serban, S. Reddy: [Back-Training excels Self-Training at Unsupervised Domain Adaptation of Question Generation and Passage Retrieval](https://arxiv.org/abs/2104.08801). *EMNLP 2021*
 2. **D.Kulshreshtha**, P. Goel, A.K. Singh: [How emotional are you? Neural Architectures for Emotion Intensity Prediction in Microblogs](http:/www.aclweb.org/anthology/C18-1247/). *COLING 2018*
 3. H. Rangwani, **D.Kulshreshtha**, A.K. Singh: [NLPRL-IITBHU at SemEval-2018 Task 3: Combining linguistic features and emoji pre-trained CNN for irony detection in tweets](http:/www.aclweb.org/anthology/S18-1104/). *SemEval at NAACL 2018*
