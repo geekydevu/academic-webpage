@@ -17,13 +17,15 @@ Apart from research, I also like learning vocal Indian classical music.
 
 ## Experience
 
-- Amazon UK - Applied Science Intern *(July 2021 - October 2021)*
-- Korbit.AI - Research Sciene Intern *(September 2020 - May 2021)*
-- Amazon India - Software Engineer *(September 2028 - August 2020)*
-- INRIA Labs France - Research Intern *(May 2018 - August 2018)*
-- Amazon India - Software Engineer Intern *(May 2017 - July 2017)*
-- Busigence India - Data Science Intern *(December 2016)*
-- CFILT Lab IIT Bombay - R&D Intern *(May 2016 - July 2016)*
+| Organization | Position | Duration |
+| -- | -- | -- |
+| Amazon UK | Applied Science Intern | Jul 2021 - Oct 2021 |
+| Korbit.AI | Research Sciene Intern | Sep 2020 - May 2021 |
+| Amazon India | Software Engineer | Sep 2018 - Aug 2020 |
+| INRIA Labs France | Research Intern | May 2018 - Aug 2018 |
+| Amazon India | Software Engineer Intern | May 2017 - Jul 2017 |
+| Busigence India | Data Science Intern | Dec 2016 |
+| CFILT Lab IIT Bombay | R&D Intern | May 2016 - Jul 2016 |
 
 ## Publications
 
