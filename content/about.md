@@ -17,7 +17,7 @@ Apart from research, I also like learning vocal Indian classical music.
 
 ## Academia Experience {{<div style="text-align: right"> Industry Experience </div>}}
 
-Academia Experience I {{<div style="text-align: right"> Industry Experience I </div>}}
+Academia Experience I <div style="text-align: right"> Industry Experience I </div>
 
 Academia Experience II {{<div style="text-align: right"> Industry Experience II </div>}}
 
