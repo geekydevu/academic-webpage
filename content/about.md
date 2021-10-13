@@ -15,8 +15,15 @@ I will be spending Summers 2021 at Amazon Cambridge, UK as an Applied Scientist 
 My ongoing research focuses on neural question generation from open educational resources (e.g. Wikipedia) for statistics and Machine Learning domain.
 Apart from research, I also like learning vocal Indian classical music.
 
-| Default Header | Left Align | Right Align | Center Align |
-| --- | :-- | --: | :-: |
+## Experience
+
+1. Amazon UK - Applied Science Intern <div dir="rtl">July 2021 - October 2021</div>
+2. Korbit.AI - Research Sciene Intern
+3. Amazon India - Software Engineer
+4. INRIA Labs France - Research Intern
+5. Amazon India - Software Engineer Intern
+6. Busigence India - Data Science Intern
+7. CFILT Lab IIT Bombay - R&D Intern
 
 ## Publications
 
