@@ -15,13 +15,8 @@ I will be spending Summers 2021 at Amazon Cambridge, UK as an Applied Scientist 
 My ongoing research focuses on neural question generation from open educational resources (e.g. Wikipedia) for statistics and Machine Learning domain.
 Apart from research, I also like learning vocal Indian classical music.
 
-## Academia Experience {{<div style="text-align: right"> Industry Experience </div>}}
-
-<div dir = "ltr"><br>Academia Experience I </div><div dir = "rtl">Industry Experience I </div>
-
-Academia Experience II {{<div style="text-align: right"> Industry Experience II </div>}}
-
-Academia Experience III {{<div style="text-align: right"> Industry Experience III </div>}}
+| Default Header | Left Align | Right Align | Center Align |
+| --- | :-- | --: | :-: |
 
 ## Publications
 
