@@ -4,7 +4,7 @@ title = "Music/Art"
 
 {{< figure src="/singing.jpeg" >}}
 
-Apart from doing research, I like singing bollywood and North Indian classical music, art and craft. 
+Apart from doing research, I like singing bollywood and Indian classical music
 
 ---
 
